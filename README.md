@@ -3,10 +3,17 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
+<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuocphann162&label=Profile%20views&color=0e75b6&style=flat" alt="phuocphann162" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuocphann162" alt="phuocphann162" /></a> </p>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -27,8 +34,8 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span> -->
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -60,6 +67,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocphann162&show_icons=true&locale=en" alt="phuocphann162" /></p>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
